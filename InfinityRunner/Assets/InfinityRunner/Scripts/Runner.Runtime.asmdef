@@ -1,0 +1,24 @@
+{
+    "name": "Runner.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "ModuleRunner.Shared",
+        "Zenject",
+        "UniTask",
+        "UniRx",
+        "Dreamteck.Forever",
+        "StateMachine.Runtime",
+        "Unity.Addressables",
+        "Unity.ResourceManager",
+        "ApplicationTouches"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f1e84c9d18d4bd39e6d6d63b55c5352, type: 3}
+  m_Name: RunStateConfig
+  m_EditorClassIdentifier: 
+  config:
+    initialSpeed: 2
+    endSpeed: 5
+    acceleration: 0.5
+    initialJumpForce: 7
+    continuousJumpForce: 15
+    gravityForce: 0
+    coyotTime: 0.5
+    jumpsCount: 2

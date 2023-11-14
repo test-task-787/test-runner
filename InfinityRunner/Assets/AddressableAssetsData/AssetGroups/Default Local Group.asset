@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 030a270fef7ec5442b1b5056f51e4837
+  m_SerializeEntries:
+  - m_GUID: 7a6e0054339bc5c47a28cd35234245a9
+    m_Address: Player
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2a7a476b689de37458cc50545267dbf5
+    m_Address: view1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d63b448fd1812fe4e8d1aa00c085c08d
+    m_Address: booster-controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b359c6846eb16cb40ab4100be1061299
+    m_Address: yellow_coin
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 552aafc99b1c6af4da7c1a8c63f640e3
+    m_Address: red_coin
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1fa9b1d8787970c46b23d25811ecfe1b
+    m_Address: fly_booster
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 35ffbe8898289254c998e5551a0bacd3, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 927fc4be52f437647b0273524d4efdaa, type: 2}
+    - {fileID: 11400000, guid: d0679c4e7bc561d438526814156cf078, type: 2}
